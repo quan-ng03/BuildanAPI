@@ -1,0 +1,9 @@
+{
+  "dev": {
+    "driver": "pg",
+    "user": "postgres",
+    "password": "Lebron4d@ys",
+    "host": "localhost",
+    "database": "recipe_db"
+  }
+}

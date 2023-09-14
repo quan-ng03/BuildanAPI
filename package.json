@@ -1,0 +1,15 @@
+{
+  "name": "recipeapi",
+  "version": "1.0.0",
+  "description": "Provide a list of recipes and steps on how to make them",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quan Nguyen <jacob.nguyenaq@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.2"
+  }
+}
